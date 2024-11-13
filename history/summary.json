@@ -76,17 +76,19 @@
     "url": "https://pl44t.github.io/plaatsite/",
     "icon": "https://icons.duckduckgo.com/ip3/pl44t.github.io.ico",
     "slug": "plaatsite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 18,
+    "timeDay": 30,
     "timeWeek": 36,
     "timeMonth": 44,
     "timeYear": 46,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-13": 0
+    }
   }
 ]
