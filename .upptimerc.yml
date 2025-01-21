@@ -9,8 +9,6 @@ sites:
     url: https://pl44t.github.io/projects-timeline/
   - name: D&D game
     url: https://pl44t.github.io/browser-d-d-game/
-  - name: Plaatsite
-    url: https://pl44t.github.io/plaatsite/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
